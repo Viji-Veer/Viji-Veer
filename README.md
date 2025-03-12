@@ -13,10 +13,10 @@
 
 ## 📂 Featured Projects:
 🔹 **[Project 1: Customer Churn Prediction](https://github.com/Viji-Veer/YourProject1)**  
-🔹 **[Project 2: Power BI Sales Dashboard](https://github.com/Viji-Veer/YourProject2)**  
+🔹 **[Project 2: Power BI Sales Dashboard](https://github.com/Viji-Veer/Projects/Sales-Performance-Analysis)**  
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/vijayalakshmi-veeraiyan-viji-6761421a1)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vijayalakshmi-veeraiyan-viji-6761421a1)  
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Viji-Veer)  
 
 🚀 *Let's build data-driven solutions together!*  
