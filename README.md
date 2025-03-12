@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Vijayalakshmi Veeraiyan! 👋  
+💻 **Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Expert**  
 
-<!--
-**Viji-Veer/Viji-Veer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Passionate about Data Science, Machine Learning, and Big Data Analytics.  
+🔹 Experienced in Python, SQL, Pandas, Scikit-Learn, Power BI.  
+🔹 Building real-world projects to solve business problems.  
 
-Here are some ideas to get you started:
+## 🚀 My Skills:
+- **Programming:** Python (Pandas, NumPy, Scikit-Learn), SQL  
+- **Data Visualization:** Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Regression, Classification, Clustering  
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects:
+🔹 **[Project 1: Customer Churn Prediction](https://github.com/Viji-Veer/YourProject1)**  
+🔹 **[Project 2: Power BI Sales Dashboard](https://github.com/Viji-Veer/YourProject2)**  
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/vijayalakshmi-veeraiyan-viji-6761421a1)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/Viji-Veer)  
+
+🚀 *Let's build data-driven solutions together!*  
