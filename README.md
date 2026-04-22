@@ -13,7 +13,7 @@
 
 ## 📂 Featured Projects:
 🔹 **[Project 1:Power BI Sales Dashboard](https://github.com/Viji-Veer/PowerBI-Projects/tree/main/Projects/Sales-Performance-Analysis)**  
-🔹 **[Project 2: Customer Churn Prediction](https://github.com/Viji-Veer/MLprojects/tree/main/telecom-churn-prediction)**    
+🔹 **[Project 2: User Retention and Churn Analysis](https://github.com/Viji-Veer/MLprojects/tree/main/telecom-churn-prediction)**    
 
 📫 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/vijayalakshmi-veeraiyan-viji-6761421a1)  
