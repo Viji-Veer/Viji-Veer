@@ -1,7 +1,7 @@
 # Hi, I'm Vijayalakshmi Veeraiyan! 👋  
 💻 **Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Expert**  
 
-🔹 Passionate about Data Science, Machine Learning, and Big Data Analytics.  
+🔹 Passionate about Data Science, Machine Learning and Big Data Analytics.  
 🔹 Experienced in Python, SQL, Pandas, Scikit-Learn, Power BI.  
 🔹 Building real-world projects to solve business problems.  
 
